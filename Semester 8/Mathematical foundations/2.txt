@@ -1,0 +1,29 @@
+(IMPLIES
+	(AND (>= A 1) (>= 8 A) (>= B 1) (>= 8 B) (>= C 1) (>= 8 C) (>= D 1) (>= 8 D) (>= E 1) (>= 8 E) (>= F 1) (>= 8 F))
+(IMPLIES
+	(AND 
+		(IMPLIES  
+			(AND 
+				(OR (EQ A E) (EQ B F) (EQ (* (- A E) (-A E)) (* (- B F) (- B F)))) 
+				(NEQ E C) (NEQ F D)
+			)
+		(AND (EQ X E) (EQ Y F))
+		)
+		(IMPLIES 
+			(OR (NOT (OR (EQ A E) (EQ B F) (EQ (* (- A E) (-A E)) (* (- B F) (- B F)))))
+				(EQ E C) (EQ F D)
+			)
+		(AND (EQ X 0) (EQ Y 0))
+		)
+	)
+			(AND 
+				(AND (>= A 1) (>= 8 A) (>= B 1) (>= 8 B) (>= C 1) (>= 8 C) (>= D 1) (>= 8 D) (>= E 1) (>= 8 E) (>= F 1) (>= 8 F))
+					(OR
+					(AND (OR (EQ A E) (EQ B F) (EQ (* (- A E) (-A E)) (* (- B F) (- B F)))) (NEQ E C) (NEQ F D) (EQ X E) (EQ Y F))
+					(AND (OR (NOT (OR (EQ A E) (EQ B F) (EQ (* (- A E) (-A E)) (* (- B F) (- B F))))) (EQ E C) (EQ F D)) (EQ X 0) (EQ Y 0))
+					)
+			(OR (AND (<= X 8) (<= 1 X)) (EQ X 0))
+			(OR (AND (<= Y 8) (<= 1 Y)) (EQ Y 0))
+			)
+)
+)

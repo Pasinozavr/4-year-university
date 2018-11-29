@@ -1,0 +1,34 @@
+(IFF (AND A B) (AND B A))
+(IFF (OR A B) (OR B A))
+(IFF (IFF A B) (IFF B A))
+
+(IFF (AND A (AND B C)) (AND (AND A B) C))
+(IFF (OR A (OR B C)) (OR (OR A B) C))
+
+(IFF (OR A (AND B C)) (AND (OR A B) (OR A C)))
+(IFF (AND A (OR B C)) (OR (AND A B) (AND A C)))
+
+(IFF (NOT (AND A B)) (OR (NOT A) (NOT B)))
+(IFF (NOT (OR A B)) (AND (NOT A) (NOT B)))
+
+(IFF (NOT (NOT A)) A)
+
+(IFF (OR A (NOT A)) TRUE)
+
+(IFF (AND A (NOT A)) FALSE)
+
+(IFF (IMPLIES A B) (OR (NOT A) B))
+
+(IFF (IFF A B) (AND (IMPLIES A B) (IMPLIES B A)))
+
+(IFF (OR A A) A)
+(IFF (OR A TRUE) TRUE)
+(IFF (OR A FALSE) A)
+(IFF (OR A (AND A B)) A)
+
+(IFF (AND A A) A)
+(IFF (AND A TRUE) A)
+(IFF (AND A FALSE) FALSE)
+(IFF (AND A (OR A B)) A)
+
+(IFF A A)
