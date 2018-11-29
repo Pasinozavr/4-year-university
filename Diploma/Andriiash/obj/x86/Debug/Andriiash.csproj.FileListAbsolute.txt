@@ -1,0 +1,32 @@
+D:\Desktop\Andriiash\Andriiash\bin\Debug\Andriiash.exe
+D:\Desktop\Andriiash\Andriiash\bin\Debug\Andriiash.pdb
+D:\Desktop\Andriiash\Andriiash\obj\x86\Debug\Andriiash.Properties.Resources.resources
+D:\Desktop\Andriiash\Andriiash\obj\x86\Debug\Andriiash.csproj.GenerateResource.Cache
+D:\Desktop\Andriiash\Andriiash\obj\x86\Debug\Andriiash.exe
+D:\Desktop\Andriiash\Andriiash\obj\x86\Debug\Andriiash.pdb
+D:\Desktop\Andriiash\Andriiash\obj\x86\Debug\Andriiash.Form1.resources
+D:\Desktop\Andriiash\Andriiash\obj\x86\Debug\Andriiash.csprojResolveAssemblyReference.cache
+D:\Учеба\4 курс\дипломы\мой\Andriiash\Andriiash\obj\x86\Debug\Andriiash.exe
+D:\Учеба\4 курс\дипломы\мой\Andriiash\Andriiash\obj\x86\Debug\Andriiash.pdb
+D:\Учеба\4 курс\дипломы\мой\Andriiash\Andriiash\bin\Debug\Andriiash.exe
+D:\Учеба\4 курс\дипломы\мой\Andriiash\Andriiash\bin\Debug\Andriiash.pdb
+D:\Учеба\4 курс\дипломы\мой\Andriiash\Andriiash\obj\x86\Debug\Andriiash.csprojResolveAssemblyReference.cache
+D:\Учеба\4 курс\дипломы\мой\Andriiash\Andriiash\obj\x86\Debug\Andriiash.Properties.Resources.resources
+D:\Учеба\4 курс\дипломы\мой\Andriiash\Andriiash\obj\x86\Debug\Andriiash.csproj.GenerateResource.Cache
+D:\Учеба\4 курс\дипломы\мой\Andriiash\Andriiash\obj\x86\Debug\Andriiash.Main.resources
+D:\Учеба\4 курс\дипломы\мой\Andriiash\Andriiash\obj\x86\Debug\Andriiash.Media.resources
+D:\Учеба\4 курс\дипломы\мой\Andriiash\Andriiash\obj\x86\Debug\Andriiash.Test.resources
+D:\Учеба\4 курс\дипломы\мой\Andriiash\Andriiash\obj\x86\Debug\Andriiash.Result.resources
+D:\Учеба\4 курс\дипломы\мой\Andriiash\Andriiash\obj\x86\Debug\Andriiash.Data.resources
+D:\Учеба\4 курс\дипломы\дну\мой\Andriiash\Andriiash\obj\x86\Debug\Andriiash.exe
+D:\Учеба\4 курс\дипломы\дну\мой\Andriiash\Andriiash\obj\x86\Debug\Andriiash.pdb
+D:\Учеба\4 курс\дипломы\дну\мой\Andriiash\Andriiash\obj\x86\Debug\Andriiash.csprojResolveAssemblyReference.cache
+D:\Учеба\4 курс\дипломы\дну\мой\Andriiash\Andriiash\obj\x86\Debug\Andriiash.Data.resources
+D:\Учеба\4 курс\дипломы\дну\мой\Andriiash\Andriiash\obj\x86\Debug\Andriiash.Main.resources
+D:\Учеба\4 курс\дипломы\дну\мой\Andriiash\Andriiash\obj\x86\Debug\Andriiash.Media.resources
+D:\Учеба\4 курс\дипломы\дну\мой\Andriiash\Andriiash\obj\x86\Debug\Andriiash.Properties.Resources.resources
+D:\Учеба\4 курс\дипломы\дну\мой\Andriiash\Andriiash\obj\x86\Debug\Andriiash.Result.resources
+D:\Учеба\4 курс\дипломы\дну\мой\Andriiash\Andriiash\obj\x86\Debug\Andriiash.Test.resources
+D:\Учеба\4 курс\дипломы\дну\мой\Andriiash\Andriiash\obj\x86\Debug\Andriiash.csproj.GenerateResource.Cache
+D:\Учеба\4 курс\дипломы\дну\мой\Andriiash\Andriiash\bin\Debug\Andriiash.exe
+D:\Учеба\4 курс\дипломы\дну\мой\Andriiash\Andriiash\bin\Debug\Andriiash.pdb
