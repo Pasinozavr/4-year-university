@@ -1,0 +1,25 @@
+D:\Desktop\ritadraw\ritadraw\bin\Debug\ritadraw.exe
+D:\Desktop\ritadraw\ritadraw\bin\Debug\ritadraw.pdb
+D:\Desktop\ritadraw\ritadraw\obj\x86\Debug\ritadraw.Form1.resources
+D:\Desktop\ritadraw\ritadraw\obj\x86\Debug\ritadraw.Properties.Resources.resources
+D:\Desktop\ritadraw\ritadraw\obj\x86\Debug\ritadraw.csproj.GenerateResource.Cache
+D:\Desktop\ritadraw\ritadraw\obj\x86\Debug\ritadraw.exe
+D:\Desktop\ritadraw\ritadraw\obj\x86\Debug\ritadraw.pdb
+D:\Учеба\4 курс\дипломы\риты\ritadraw\ritadraw\obj\x86\Debug\ritadraw.exe
+D:\Учеба\4 курс\дипломы\риты\ritadraw\ritadraw\obj\x86\Debug\ritadraw.pdb
+D:\Учеба\4 курс\дипломы\риты\ritadraw\ritadraw\bin\Debug\ritadraw.exe
+D:\Учеба\4 курс\дипломы\риты\ritadraw\ritadraw\bin\Debug\ritadraw.pdb
+D:\Учеба\4 курс\дипломы\риты\ritadraw\ritadraw\obj\x86\Debug\ritadraw.Properties.Resources.resources
+D:\Учеба\4 курс\дипломы\риты\ritadraw\ritadraw\obj\x86\Debug\ritadraw.csproj.GenerateResource.Cache
+D:\Учеба\4 курс\дипломы\риты\ritadraw\ritadraw\obj\x86\Debug\ritadraw.csprojResolveAssemblyReference.cache
+D:\Учеба\4 курс\дипломы\риты\ritadraw\ritadraw\obj\x86\Debug\ritadraw.Draw.resources
+D:\Учеба\4 курс\дипломы\риты\ritadraw\ritadraw\obj\x86\Debug\ritadraw.Main.resources
+D:\Учеба\4 курс\дипломы\дну\риты\ritadraw\ritadraw\obj\x86\Debug\ritadraw.exe
+D:\Учеба\4 курс\дипломы\дну\риты\ritadraw\ritadraw\obj\x86\Debug\ritadraw.pdb
+D:\Учеба\4 курс\дипломы\дну\риты\ritadraw\ritadraw\bin\Debug\ritadraw.exe
+D:\Учеба\4 курс\дипломы\дну\риты\ritadraw\ritadraw\bin\Debug\ritadraw.pdb
+D:\Учеба\4 курс\дипломы\дну\риты\ritadraw\ritadraw\obj\x86\Debug\ritadraw.csprojResolveAssemblyReference.cache
+D:\Учеба\4 курс\дипломы\дну\риты\ritadraw\ritadraw\obj\x86\Debug\ritadraw.Draw.resources
+D:\Учеба\4 курс\дипломы\дну\риты\ritadraw\ritadraw\obj\x86\Debug\ritadraw.Main.resources
+D:\Учеба\4 курс\дипломы\дну\риты\ritadraw\ritadraw\obj\x86\Debug\ritadraw.Properties.Resources.resources
+D:\Учеба\4 курс\дипломы\дну\риты\ritadraw\ritadraw\obj\x86\Debug\ritadraw.csproj.GenerateResource.Cache
